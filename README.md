@@ -1,5 +1,5 @@
 
-# Oxford Battery Degradation Analysis
+# Oxford Battery Degradation Analysis and SOC predictions
 
 This project analyzes the Oxford Battery Degradation Dataset using various machine learning techniques to predict battery capacity degradation. The steps include data loading, preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning, and a theoretical deployment plan using KServe in a Kubeflow environment.
 
