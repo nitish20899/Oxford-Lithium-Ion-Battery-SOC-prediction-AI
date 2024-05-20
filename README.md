@@ -75,6 +75,12 @@ Exploratory Data Analysis (EDA) is performed to understand the underlying patter
 - Scatter plots
 - Line plots
 
+### EDA Images
+
+![Exploratory Data Analysis 1](images/image1.png)
+![Exploratory Data Analysis 2](images/image2.png)
+![Exploratory Data Analysis 3](images/image3.png)
+
 ## Feature Engineering
 
 Feature engineering is performed to extract meaningful features from the dataset. Domain-specific knowledge is used to create new features that are relevant for predicting battery capacity degradation.
@@ -90,6 +96,10 @@ Hyperparameter tuning is performed using techniques like GridSearchCV to find th
 ## Model Evaluation
 
 The final model is evaluated on the test set, and the results are analyzed using various plots and metrics.
+
+### Model Prediction
+
+![Model Prediction](images/predictionimage.png)
 
 ## Deployment Plan
 
